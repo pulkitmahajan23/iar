@@ -1,0 +1,14 @@
+*.o
+*.obj
+*.log
+*.out
+*.elf
+*.exe
+
+target/Simulator
+target/settings
+!target/settings/target.dnx
+target/Backup*
+target/*.dep
+
+examples/*build
