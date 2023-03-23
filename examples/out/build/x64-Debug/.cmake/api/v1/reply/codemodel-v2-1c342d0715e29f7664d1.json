@@ -1,0 +1,78 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-d0094a50bb2071803777.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.25"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "TargetAccessPluginClientExamples",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "itm-logger::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-itm-logger-Debug-e286e1192424d2f92ef5.json",
+					"name" : "itm-logger",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "mem-reader::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-mem-reader-Debug-de2afd3b5351e63204c4.json",
+					"name" : "mem-reader",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "mem-writer::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-mem-writer-Debug-2212adbd098fb901468a.json",
+					"name" : "mem-writer",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "D:/projects/cspy-target-access-demo/examples/out/build/x64-Debug",
+		"source" : "D:/projects/cspy-target-access-demo/examples"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 4
+	}
+}

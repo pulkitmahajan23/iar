@@ -1,0 +1,5 @@
+D:/projects/cspy-target-access-demo/examples/build/CMakeFiles/mem-reader.dir
+D:/projects/cspy-target-access-demo/examples/build/CMakeFiles/mem-writer.dir
+D:/projects/cspy-target-access-demo/examples/build/CMakeFiles/itm-logger.dir
+D:/projects/cspy-target-access-demo/examples/build/CMakeFiles/ALL_BUILD.dir
+D:/projects/cspy-target-access-demo/examples/build/CMakeFiles/ZERO_CHECK.dir

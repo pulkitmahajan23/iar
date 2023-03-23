@@ -1,0 +1,7 @@
+# ninja log v5
+10	1327	7012857333400662	CMakeFiles/mem-writer.dir/mem-writer.cpp.obj	81ad22042122dd72
+2	1338	7012857333400662	CMakeFiles/mem-reader.dir/mem-reader.cpp.obj	eb0c35831b5105ba
+15	1348	7012857333640015	CMakeFiles/itm-logger.dir/itm-logger.cpp.obj	2a43b4364afb22df
+1349	2564	7012857344331393	itm-logger.exe	dbe50ed7825b4706
+1329	2590	7012857344974831	mem-writer.exe	daf1dc5af1a9dd5f
+1338	2701	7012857345666415	mem-reader.exe	33e7c5df2a720968

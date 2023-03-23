@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="D:\projects\cspy-target-access-demo\examples\build\CMakeFiles\e034cec89dfec88ca94e409a735fac2f\generate.stamp.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{2C2D45FE-308E-3A34-8E12-23BD7F3B04E4}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

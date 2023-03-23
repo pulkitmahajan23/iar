@@ -1,0 +1,10 @@
+^D:\PROJECTS\CSPY-TARGET-ACCESS-DEMO\EXAMPLES\BUILD\CMAKEFILES\E034CEC89DFEC88CA94E409A735FAC2F\GENERATE.STAMP.RULE
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -SD:/projects/cspy-target-access-demo/examples -BD:/projects/cspy-target-access-demo/examples/build --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file D:/projects/cspy-target-access-demo/examples/build/TargetAccessPluginClientExamples.sln
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

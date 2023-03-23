@@ -1,0 +1,5 @@
+D:/projects/cspy-target-access-demo/examples/out/build/x64-Debug/CMakeFiles/mem-reader.dir
+D:/projects/cspy-target-access-demo/examples/out/build/x64-Debug/CMakeFiles/mem-writer.dir
+D:/projects/cspy-target-access-demo/examples/out/build/x64-Debug/CMakeFiles/itm-logger.dir
+D:/projects/cspy-target-access-demo/examples/out/build/x64-Debug/CMakeFiles/edit_cache.dir
+D:/projects/cspy-target-access-demo/examples/out/build/x64-Debug/CMakeFiles/rebuild_cache.dir
